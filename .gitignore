@@ -26,4 +26,4 @@ dist-ssr
 # Production and develop environments
 .env.development
 .env.production
-.env.local-modificado
+.env.local
